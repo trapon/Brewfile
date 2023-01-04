@@ -166,6 +166,7 @@ tap homebrew/cask-versions
 cask safari-technology-preview
 
 tap homebrew/cask
+cask 1password
 cask adobe-creative-cloud
 cask alfred
 cask brave-browser
