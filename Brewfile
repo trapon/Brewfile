@@ -111,6 +111,7 @@ brew openldap
 brew openssl@1.1
 brew opus
 brew p11-kit
+brew pango
 brew pcre
 brew pcre2
 brew pixman
