@@ -4,6 +4,7 @@
 tap homebrew/core
 brew ansible
 brew aom
+brew aribb24
 brew autoconf
 brew awscli
 brew bdw-gc
@@ -132,6 +133,7 @@ brew snappy
 brew speex
 brew sqlite
 brew srt
+brew svt-av1
 brew tcl-tk
 brew terraformer
 brew tesseract
