@@ -172,7 +172,6 @@ cask 1password
 cask adobe-creative-cloud
 cask alfred
 cask brave-browser
-cask chrome-remote-desktop-host
 cask coteditor
 cask day-o
 cask dbeaver-community
