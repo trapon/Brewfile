@@ -103,13 +103,16 @@ brew mpdecimal
 brew mpg123
 brew mysql-client
 brew nettle
+brew node-build
 brew nodebrew
+brew nodenv
 brew oniguruma
 brew opencore-amr
 brew openexr
 brew openjpeg
 brew openldap
 brew openssl@1.1
+brew openssl@3
 brew opus
 brew p11-kit
 brew pango
