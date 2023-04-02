@@ -159,13 +159,12 @@ brew zlib
 brew zstd
 
 tap homebrew/cask-drivers
-cask logitech-options
 cask ricoh-theta
 
 tap homebrew/cask-fonts
 cask font-fontawesome
-cask font-noto-sans-cjk
-cask font-noto-serif-cjk
+cask font-noto-sans-jp
+cask font-noto-serif-jp
 
 tap homebrew/cask-versions
 cask safari-technology-preview
@@ -193,6 +192,8 @@ cask microsoft-remote-desktop
 cask scroll-reverser
 cask sketch
 cask sqlectron
+cask stats
+cask the-unarchiver
 cask vagrant
 cask virtualbox
 cask visual-studio-code
