@@ -203,9 +203,13 @@ cask zoom
 tap rcmdnk/file
 brew brew-file
 
+# Other Homebrew packages
+brew cffi
+brew pycparser
+
 # App Store applications
 appstore 549083868   Display Menu  (2.2.4)
 appstore 1496833156  Playgrounds   (4.2.1)
 appstore 1429033973  RunCat        (9.7)
 appstore 803453959   Slack         (4.29.149)
-appstore 497799835   Xcode         (14.2)
+appstore 497799835   Xcode         (14.3)
