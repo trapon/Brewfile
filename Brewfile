@@ -159,7 +159,6 @@ brew zlib
 brew zstd
 
 tap homebrew/cask-drivers
-cask ricoh-theta
 
 tap homebrew/cask-fonts
 cask font-fontawesome
@@ -207,9 +206,12 @@ brew brew-file
 brew cffi
 brew pycparser
 
+# Other Cask applications
+cask ricoh-theta
+
 # App Store applications
 appstore 549083868   Display Menu  (2.2.4)
-appstore 1496833156  Playgrounds   (4.2.1)
+appstore 1496833156  Playgrounds   (4.3)
 appstore 1429033973  RunCat        (9.7)
-appstore 803453959   Slack         (4.29.149)
+appstore 803453959   Slack         (4.31.155)
 appstore 497799835   Xcode         (14.3)
