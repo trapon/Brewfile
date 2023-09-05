@@ -2,6 +2,23 @@
 # tap repositories and their packages
 
 tap homebrew/core
+
+tap homebrew/cask-drivers
+
+tap homebrew/cask-fonts
+cask font-fontawesome
+cask font-noto-sans-jp
+cask font-noto-serif-jp
+
+tap homebrew/cask-versions
+cask safari-technology-preview
+
+tap homebrew/cask
+
+tap rcmdnk/file
+brew brew-file
+
+# Other Homebrew packages
 brew ansible
 brew aom
 brew aribb24
@@ -12,6 +29,7 @@ brew brotli
 brew ca-certificates
 brew cairo
 brew cask
+brew cffi
 brew cjson
 brew cmocka
 brew coreutils
@@ -120,8 +138,13 @@ brew pcre
 brew pcre2
 brew pixman
 brew pkg-config
+brew pycparser
 brew pyenv
 brew pyenv-virtualenv
+brew python-certifi
+brew python-cryptography
+brew python-lxml
+brew python-markupsafe
 brew python@3.10
 brew python@3.11
 brew python@3.9
@@ -143,6 +166,7 @@ brew tesseract
 brew tfenv
 brew theora
 brew tokyo-cabinet
+brew tree-sitter
 brew unar
 brew unbound
 brew visitors
@@ -158,17 +182,7 @@ brew zimg
 brew zlib
 brew zstd
 
-tap homebrew/cask-drivers
-
-tap homebrew/cask-fonts
-cask font-fontawesome
-cask font-noto-sans-jp
-cask font-noto-serif-jp
-
-tap homebrew/cask-versions
-cask safari-technology-preview
-
-tap homebrew/cask
+# Other Cask applications
 cask 1password
 cask adobe-creative-cloud
 cask alfred
@@ -188,6 +202,7 @@ cask karabiner-elements
 cask keepassx
 cask libreoffice
 cask microsoft-remote-desktop
+cask ricoh-theta
 cask scroll-reverser
 cask sketch
 cask sqlectron
@@ -199,19 +214,10 @@ cask visual-studio-code
 cask vlc
 cask zoom
 
-tap rcmdnk/file
-brew brew-file
-
-# Other Homebrew packages
-brew cffi
-brew pycparser
-
-# Other Cask applications
-cask ricoh-theta
-
 # App Store applications
-appstore 549083868   Display Menu  (2.2.4)
-appstore 1496833156  Playgrounds   (4.3)
-appstore 1429033973  RunCat        (9.7)
-appstore 803453959   Slack         (4.31.155)
-appstore 497799835   Xcode         (14.3)
+appstore 549083868   Display Menu  (2.2.5)
+appstore 539883307   LINE          (8.2.0)
+appstore 1496833156  Playgrounds   (4.3.1)
+appstore 1429033973  RunCat        (10.3)
+appstore 803453959   Slack         (4.33.90)
+appstore 497799835   Xcode         (14.3.1)
