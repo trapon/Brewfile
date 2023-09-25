@@ -145,6 +145,8 @@ brew python-certifi
 brew python-cryptography
 brew python-lxml
 brew python-markupsafe
+brew python-packaging
+brew python-pytz
 brew python@3.10
 brew python@3.11
 brew python@3.9
@@ -219,5 +221,5 @@ appstore 549083868   Display Menu  (2.2.5)
 appstore 539883307   LINE          (8.2.0)
 appstore 1496833156  Playgrounds   (4.3.1)
 appstore 1429033973  RunCat        (10.3)
-appstore 803453959   Slack         (4.33.90)
+appstore 803453959   Slack         (4.34.119)
 appstore 497799835   Xcode         (14.3.1)
