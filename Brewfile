@@ -24,6 +24,7 @@ brew aom
 brew aribb24
 brew autoconf
 brew awscli
+brew bash
 brew bdw-gc
 brew brotli
 brew ca-certificates
@@ -92,6 +93,7 @@ brew libffi
 brew libfido2
 brew libidn2
 brew libmaxminddb
+brew libmicrohttpd
 brew libnghttp2
 brew libogg
 brew libpng
@@ -233,9 +235,9 @@ cask zoom
 
 # App Store applications
 appstore 549083868   Display Menu    (2.2.5)
-appstore 302584613   Kindle          (7.0)
+appstore 302584613   Kindle          (7.1)
 appstore 405399194   Kindle Classic  (1.40.3)
-appstore 1496833156  Playgrounds     (4.4)
+appstore 1496833156  Playgrounds     (4.4.1)
 appstore 1429033973  RunCat          (10.3)
-appstore 803453959   Slack           (4.35.126)
-appstore 497799835   Xcode           (15.0.1)
+appstore 803453959   Slack           (4.35.131)
+appstore 497799835   Xcode           (15.2)
