@@ -36,6 +36,7 @@ brew coreutils
 brew curl
 brew dav1d
 brew direnv
+brew docker-completion
 brew docutils
 brew emacs
 brew ffmpeg
@@ -45,7 +46,9 @@ brew fontconfig
 brew freetype
 brew frei0r
 brew fribidi
+brew gd
 brew gdbm
+brew gdk-pixbuf
 brew gettext
 brew giflib
 brew git
@@ -59,7 +62,9 @@ brew gnutls
 brew goaccess
 brew gobject-introspection
 brew graphite2
+brew graphviz
 brew grep
+brew gts
 brew guile
 brew handbrake
 brew harfbuzz
@@ -68,6 +73,7 @@ brew htmlq
 brew icu4c
 brew imath
 brew jansson
+brew jasper
 brew jpeg
 brew jpeg-turbo
 brew jpeg-xl
@@ -77,6 +83,7 @@ brew leptonica
 brew lftp
 brew libarchive
 brew libass
+brew libavif
 brew libb2
 brew libbluray
 brew libcbor
@@ -90,6 +97,7 @@ brew libogg
 brew libpng
 brew libpthread-stubs
 brew librist
+brew librsvg
 brew libsamplerate
 brew libsndfile
 brew libsodium
@@ -120,6 +128,7 @@ brew mbedtls
 brew mpdecimal
 brew mpg123
 brew mysql-client
+brew netpbm
 brew nettle
 brew node-build
 brew nodebrew
@@ -143,12 +152,17 @@ brew pyenv
 brew pyenv-virtualenv
 brew python-certifi
 brew python-cryptography
+brew python-dateutil
+brew python-jinja
 brew python-lxml
 brew python-markupsafe
 brew python-packaging
+brew python-pyparsing
 brew python-pytz
+brew python-setuptools
 brew python@3.10
 brew python@3.11
+brew python@3.12
 brew python@3.9
 brew pyyaml
 brew rav1e
@@ -192,6 +206,7 @@ cask brave-browser
 cask coteditor
 cask day-o
 cask dbeaver-community
+cask docker
 cask dropbox
 cask figma
 cask firefox
@@ -217,9 +232,10 @@ cask vlc
 cask zoom
 
 # App Store applications
-appstore 549083868   Display Menu  (2.2.5)
-appstore 539883307   LINE          (8.2.0)
-appstore 1496833156  Playgrounds   (4.3.1)
-appstore 1429033973  RunCat        (10.3)
-appstore 803453959   Slack         (4.34.119)
-appstore 497799835   Xcode         (14.3.1)
+appstore 549083868   Display Menu    (2.2.5)
+appstore 302584613   Kindle          (7.0)
+appstore 405399194   Kindle Classic  (1.40.3)
+appstore 1496833156  Playgrounds     (4.4)
+appstore 1429033973  RunCat          (10.3)
+appstore 803453959   Slack           (4.35.126)
+appstore 497799835   Xcode           (15.0.1)
