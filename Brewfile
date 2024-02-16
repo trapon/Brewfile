@@ -47,6 +47,7 @@ brew fontconfig
 brew freetype
 brew frei0r
 brew fribidi
+brew gcc
 brew gd
 brew gdbm
 brew gdk-pixbuf
@@ -71,8 +72,10 @@ brew handbrake
 brew harfbuzz
 brew highway
 brew htmlq
+brew hwloc
 brew icu4c
 brew imath
+brew isl
 brew jansson
 brew jasper
 brew jpeg
@@ -94,6 +97,7 @@ brew libfido2
 brew libidn2
 brew libmaxminddb
 brew libmicrohttpd
+brew libmpc
 brew libnghttp2
 brew libogg
 brew libpng
@@ -104,6 +108,7 @@ brew libsamplerate
 brew libsndfile
 brew libsodium
 brew libsoxr
+brew libssh
 brew libssh2
 brew libtasn1
 brew libtiff
@@ -128,6 +133,7 @@ brew m4
 brew mas
 brew mbedtls
 brew mpdecimal
+brew mpfr
 brew mpg123
 brew mysql-client
 brew netpbm
@@ -135,13 +141,16 @@ brew nettle
 brew node-build
 brew nodebrew
 brew nodenv
+brew numpy
 brew oniguruma
+brew openblas
 brew opencore-amr
 brew openexr
 brew openjpeg
 brew openldap
 brew openssl@1.1
 brew openssl@3
+brew openvino
 brew opus
 brew p11-kit
 brew pango
@@ -149,9 +158,11 @@ brew pcre
 brew pcre2
 brew pixman
 brew pkg-config
+brew pugixml
 brew pycparser
 brew pyenv
 brew pyenv-virtualenv
+brew python-argcomplete
 brew python-certifi
 brew python-cryptography
 brew python-dateutil
@@ -178,6 +189,7 @@ brew speex
 brew sqlite
 brew srt
 brew svt-av1
+brew tbb
 brew tcl-tk
 brew terraformer
 brew tesseract
@@ -235,9 +247,9 @@ cask zoom
 
 # App Store applications
 appstore 549083868   Display Menu    (2.2.5)
-appstore 302584613   Kindle          (7.1)
+appstore 302584613   Kindle          (7.3)
 appstore 405399194   Kindle Classic  (1.40.3)
 appstore 1496833156  Playgrounds     (4.4.1)
 appstore 1429033973  RunCat          (10.3)
-appstore 803453959   Slack           (4.35.131)
+appstore 803453959   Slack           (4.36.140)
 appstore 497799835   Xcode           (15.2)
