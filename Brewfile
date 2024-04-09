@@ -30,10 +30,12 @@ brew brotli
 brew ca-certificates
 brew cairo
 brew cask
+brew certifi
 brew cffi
 brew cjson
 brew cmocka
 brew coreutils
+brew cryptography
 brew curl
 brew dav1d
 brew direnv
@@ -163,8 +165,6 @@ brew pycparser
 brew pyenv
 brew pyenv-virtualenv
 brew python-argcomplete
-brew python-certifi
-brew python-cryptography
 brew python-dateutil
 brew python-jinja
 brew python-lxml
@@ -247,9 +247,9 @@ cask zoom
 
 # App Store applications
 appstore 549083868   Display Menu    (2.2.5)
-appstore 302584613   Kindle          (7.3)
+appstore 302584613   Kindle          (7.6)
 appstore 405399194   Kindle Classic  (1.40.3)
 appstore 1496833156  Playgrounds     (4.4.1)
-appstore 1429033973  RunCat          (10.3)
-appstore 803453959   Slack           (4.36.140)
+appstore 1429033973  RunCat          (11.2)
+appstore 803453959   Slack           (4.37.94)
 appstore 497799835   Xcode           (15.2)
