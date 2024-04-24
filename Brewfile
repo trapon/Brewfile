@@ -247,9 +247,9 @@ cask zoom
 
 # App Store applications
 appstore 549083868   Display Menu    (2.2.5)
-appstore 302584613   Kindle          (7.6)
+appstore 302584613   Kindle          (7.7)
 appstore 405399194   Kindle Classic  (1.40.3)
-appstore 1496833156  Playgrounds     (4.4.1)
-appstore 1429033973  RunCat          (11.2)
-appstore 803453959   Slack           (4.37.94)
+appstore 1496833156  Playgrounds     (4.5)
+appstore 1429033973  RunCat          (11.3)
+appstore 803453959   Slack           (4.37.101)
 appstore 497799835   Xcode           (15.2)
